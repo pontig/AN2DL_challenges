@@ -1,6 +1,6 @@
 # Second challenge
 
-This is the first challenge of the AN2DL course.
+This is the second challenge of the AN2DL course.
 
 ## Task
 
