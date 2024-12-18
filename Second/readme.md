@@ -25,7 +25,7 @@ The dataset had ~800 noise images put there to make it look cool. Fortunately, t
 
 ## Final results
 
-Our cells looked like this (the background predictions are not included in the score calculation, so we never predicted class 0):
+Our prediction looked like this (the background predictions are not included in the score calculation, so we never predicted class 0):
 
 ![predicted](Report/training.png)
 
